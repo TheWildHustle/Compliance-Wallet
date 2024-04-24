@@ -1,7 +1,7 @@
 # Compliance-Wallet
 The most compliant Bitcoin wallet in the space. 
 
-Welcome to the Compliance Wallet repository! This GitHub project aims to create a unique Bitcoin wallet experience with a focus on compliance and NGU. Our goal is to develop a wallet that prioritizes adherence to regulatory requirements while providing users with an intuitive interface.
+Welcome to the Compliance Wallet repository! This GitHub project aims to create a unique Bitcoin wallet experience with a focus on compliance and NGU. Our goal is to develop a wallet that prioritizes adherence to regulatory requirements while providing users with an intuitive interface. The wallet is good because its open source.
 
 Future Features:
 
