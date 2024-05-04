@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Compliance Wallet</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #3498db;
+    text-align: center;
+}
+
+.wallet {
+    background-color: #e67e22;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.balance {
+    font-size: 24px;
+}
+
+.button {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+.button:hover {
+    background-color: #c0392b;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>Compliance Wallet</h1>
+    <div class="wallet">
+        <p>Balance: <span class="balance">0.0000000 BTC</span></p>
+    </div>
+    <button class="container">On Chain</button>
+</div>
+      <button class="button">Lightning</button>
+  </div>
+      <button class="button">Liquid</button>
+  </div>
+      <button class="button">E-Cash</button>
+  </div>
+      <button class="button">Manage Federations</button>
+  </div>
+  <button class="button">Nostr</button>
+  </div>
+  <button class="button">Payjoin</button>
+  </div>
+  <button class="button">Coinjoin</button>
+  </div>
+  <button class="button">Lightning Address</button>
+  </div>
+  <button class="button">Multisig</button>
+  </div>
+  <button class="button">Zap Streamer</button>
+  </div>
+  <button class="button">Zap Splitter</button>
+  </div>
+  <button class="button">Multipath payment</button>
+  </div>
+  <button class="button">Time Lock</button>
+  </div>
+  <button class="button">Robosats Buy</button>
+  </div>
+  <button class="button">Robosats Sell</button>
+  </div>
+  <button class="button">Weekly sat comparison</button>
+  </div>
+  <button class="button">Manage LSP</button>
+  </div>
+  <button class="button">Create Child Seed</button>
+  </div>
+  <button class="button">Nostr Wallet Connect</button>
+  </div>
+  <button class="button">Open Sats Donation Percentage</button>
+  </div>
+  <button class="button">Bill Pay</button>
+  </div>
+  <button class="button">Jam Yield</button>
+  </div>
+  <button class="button">Connect to Ocean</button>
+  </div>
+  <button class="button">Connect to Demand</button>
+  </div>
+  <button class="button">Self Host on Start9</button>
+  </div>
+  <button class="button">Seed Management</button>
+  </div>
+  <button class="button">Spirit of Satoshi</button>
+  </div>
+  <button class="button">Connect Hardwallet</button>
+  </div>
+  <button class="button">Mempool</button>
+  </div>
+  <button class="button">Fee Estimator</button>
+  </div>
+  <button class="button">Privacy Estimator</button>
+  </div>
+  <button class="button">Create Prism</button>
+  </div>
+</body>
+</html>
